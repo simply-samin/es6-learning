@@ -25,14 +25,14 @@ The following ES6 features are covered in this repository:
 
 ## Folder Structure
 
-```plaintext
-/es6-learning
-  ├── /arrow-functions
-  ├── /async-await
-  ├── /promises
-  ├── /spread-rest-operators
-  ├── /...
-```
+  ```plaintext
+    /es6-learning
+    ├── /arrow-functions
+    ├── /async-await
+    ├── /promises
+    ├── /spread-rest-operators
+    ├── /...
+  ```
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
