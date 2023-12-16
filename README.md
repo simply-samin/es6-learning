@@ -23,7 +23,7 @@ The following ES6 features are covered in this repository:
 - Spread and Rest Operators
 - and more...
 
-##Folder Structure
+## Folder Structure
 
 ```plaintext
 /es6-learning
